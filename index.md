@@ -9,3 +9,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` python
 print("Hello world")
 ```
+
+- [x] Yayy
+- [ ] got it
+- [x] vamos
